@@ -1,1 +1,3 @@
-blargh
+npm install
+
+npm run start
